@@ -6,6 +6,10 @@ Of course, blocks on their own are relatively meaningless. Their value comes fro
 
 Typically, you won't need to extend the Document Inspector; blocks provide much of the functionality you'd need (even things like setting document-level meta fields can be handled more intuitively in blocks).
 
+## Screenshots
+
+![document-inspector](assets/document-inspector.png)
+
 ## Do…
 
 +
