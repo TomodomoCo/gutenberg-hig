@@ -1,3 +1,5 @@
+
+
 # Gutenberg HIG
 
 As a radical new approach to editing and managing content, Gutenberg—[the new editor for WordPress](https://wordpress.org/gutenberg/)—departs from all well-established WordPress norms, which can lead to confusion and unclear paths for designers and developers.
@@ -6,9 +8,9 @@ Human Interface Guidelines, or "HIGs", are an essential tool to help developers 
 
 [Apple's HIG documentation](https://developer.apple.com/design/human-interface-guidelines/) is perhaps the most famous, offering critical insight into what's required to make an app that feels like a native part of one of their operating systems.
 
-This repository contains a set of Human Interface Guidelines for Gutenberg. *It is not an official project, and should not be interpreted as such.* This is just our opinionated approach and understanding of what makes a great Gutenberg user interface.
+This repository contains a set of Human Interface Guidelines for Gutenberg. **This is not an official project, and should not be interpreted as such.** This is just our opinionated approach and understanding of what makes a great Gutenberg user interface.
 
-To be clear, this documentation is intended for developers and designers who are creating blocks and integrations _within_ Gutenberg. There is also [official documentation on the design of the Gutenberg user interface itself](https://wordpress.org/gutenberg/handbook/reference/design-principles/). Those design principles inform and occasionally cross-over with these guidelines, but are largely complementary.
+To be clear, this documentation is intended for developers and designers who are creating blocks and integrations _within_ Gutenberg. There is also [official documentation on the design of the Gutenberg user interface itself](https://wordpress.org/gutenberg/handbook/reference/design-principles/), which also include notes on designing interfaces for blocks. These guidelines occasionally cross-over with the official documentation, but are intended to augment and expand it. (Some day, these docs may be merged into those docs, but for faster iteration we are building them separately.)
 
 ## About Tomodomo
 
