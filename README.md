@@ -10,7 +10,11 @@ Human Interface Guidelines, or "HIGs", are an essential tool to help developers 
 
 This repository contains a set of Human Interface Guidelines for Gutenberg. **This is not an official project, and should not be interpreted as such.** This is just our opinionated approach and understanding of what makes a great Gutenberg user interface.
 
-To be clear, this documentation is intended for developers and designers who are creating blocks and integrations _within_ Gutenberg. There is also [official documentation on the design of the Gutenberg user interface itself](https://wordpress.org/gutenberg/handbook/reference/design-principles/), which also include notes on designing interfaces for blocks. These guidelines occasionally cross-over with the official documentation, but are intended to augment and expand it. (Some day, these docs may be merged into those docs, but for faster iteration we are building them separately.)
+## Relation to the Gutenberg Design Principles
+
+There is [official documentation on the design of the Gutenberg user interface itself](https://wordpress.org/gutenberg/handbook/reference/design-principles/), which also include notes on designing interfaces for blocks.
+
+Our guidelines are intended to augment and expand that documentation, providing more specific opinions, updated advice based on changes made to Gutenberg, and real-world thoughts as block designers and developers ourselves.
 
 ## About Tomodomo
 
