@@ -4,9 +4,15 @@ The Block Inspector is perhaps the most exciting part of the Gutenberg user inte
 
 However, its great flexibility is also a tremendous liability. Because the inspector is so versatile, it can also quickly become overwhelming with options and settings.
 
+## Screenshots
+
+![block-inspector](assets/block-inspector.png)
+
 ## Do…
 
 + **…set sensible defaults for any controls inside the block inspector.** Because it can be hidden, your users might not realise they have additional controls available.
++ **…group similar controls together.** Placing controls in logical groups improves discoverability.
++ **…prioritise commonly-used control groups.** Sorting control groups in order of most-to-least used (take an educated guess if you're not totally sure!) will simplify common tasks.
 
 ## Don't…
 
