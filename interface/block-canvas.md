@@ -4,7 +4,7 @@ It's easy to forget, but the actual contents of your block, or the “canvas” 
 
 Typically, the canvas area will primary be for entering text, but it's capable of much more. Ultimately, you can display any React component (and thus HTML content) inside the canvas, making it as flexible and powerful as the rest of the interface.
 
-## Screenshot
+## Screenshots
 
 _For the purposes of these screenshots, the blocks have been selected so the canvas boundary is clear._
 
